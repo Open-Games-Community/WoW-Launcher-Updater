@@ -5,6 +5,12 @@ This is a paid launcher.
 
 Show off WoW Launchers by extensions
 
+![Launcher_wow_panel](https://github.com/Open-Games-Community/WoW-Launcher-Updater/assets/89811188/ccf0d757-9a65-4bb2-a15e-3353f78adcdb)
+![launcher_wow_dragon](https://github.com/Open-Games-Community/WoW-Launcher-Updater/assets/89811188/a9ff05a2-38fe-4c5f-b333-155f80031d35)
+
+
+
+
 ![1](https://github.com/Open-Games-Community/WoW-Launcher-Updater/assets/89811188/c7ecf5e5-9b97-4c8d-9c05-757923795507)
 ![1](https://github.com/Open-Games-Community/WoW-Launcher-Updater/assets/89811188/b730307e-84b5-46c4-b02e-4c937ea11b75)
 ![1](https://github.com/Open-Games-Community/WoW-Launcher-Updater/assets/89811188/8210c117-8e38-4327-af96-f96c3ebfaf33)
